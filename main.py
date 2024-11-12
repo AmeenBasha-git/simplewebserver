@@ -5,7 +5,7 @@ content = """
 <head>
     <title>configuration of my laptop</title>
 </head>
-<body bgcolor="cylon">
+<body >
     <h1 align ="center">configuration of my laptop(Ameen Basha,24900027)</h1>
     <pre>
         <ul >
